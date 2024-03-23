@@ -11,7 +11,7 @@ BitLab Developers is an innovation hub where every detail is valued. "Bit" symbo
 ## 🚀 Team BitLab Developers 🧑‍💻
 | NAMA                  | BIDANG PROFESI       | GITHUB                                                                 |
 |-----------------------|----------------------|------------------------------------------------------------------------|
-| ZULKARNAEN            | 🏅 (Leader Team)     | [![Github](https://img.shields.io/badge/Github-zulkarnaen-blue)](https://github.com/anonputraid)     |
+| ZULKARNAEN            | (Leader Team) 🏅   | [![Github](https://img.shields.io/badge/Github-zulkarnaen-blue)](https://github.com/anonputraid)     |
 | ALDINA RIZKY ANANDA   | Front End Developer 💻     | [![Github](https://img.shields.io/badge/Github-aldina-blue)](https://github.com/)              |
 | MUHAMMAD AZRUL MUSTAFA| Backend Developer 🌐      | [![Github](https://img.shields.io/badge/Github-azrul-blue)](https://github.com/)                |
 | MUHAMMAD RIZWAN       | Mobile Development 📱| [![Github](https://img.shields.io/badge/Github-rizwan-blue)](https://github.com/)              |
