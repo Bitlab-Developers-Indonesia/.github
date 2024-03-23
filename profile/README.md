@@ -1,12 +1,23 @@
-## Hi there 👋
+## Hi there, Bitlab Developers Here 👋
 
-<!--
+<p align="center">
+  <img src="../resource/banner.png">
+</p>
 
-**Here are some ideas to get you started:**
+## 🧪🚀 Our Story:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+BitLab Developers is an innovation hub where every detail is valued. "Bit" symbolizes the smallest unit in information processing, while "Lab" is the space for experimentation. We believe that great innovation starts with attention to every small element. At BitLab Developers, we create a creative environment where collaboration and experimentation thrive, offering technology solutions that inspire and tackle challenges together.
+
+## 🚀 Team BitLab Developers 🧑‍💻
+| NAMA                  | BIDANG PROFESI       | GITHUB                                                                 |
+|-----------------------|----------------------|------------------------------------------------------------------------|
+| ZULKARNAEN            | 🏅 (Leader Team)     | [![Github](https://img.shields.io/badge/Github-zulkarnaen-blue)](https://github.com/anonputraid)     |
+| ALDINA RIZKY ANANDA   | Front End Web 💻     | [![Github](https://img.shields.io/badge/Github-aldina-blue)](https://github.com/)              |
+| MUHAMMAD AZRUL MUSTAFA| Backend Web 🌐      | [![Github](https://img.shields.io/badge/Github-azrul-blue)](https://github.com/)                |
+| MUHAMMAD RIZWAN       | Mobile Development 📱| [![Github](https://img.shields.io/badge/Github-rizwan-blue)](https://github.com/)              |
+| JUSWADI SUWANTO       | Cyber Security 🔒    | [![Github](https://img.shields.io/badge/Github-juswadi-blue)](https://github.com/)            |
+
+
+
+
+
