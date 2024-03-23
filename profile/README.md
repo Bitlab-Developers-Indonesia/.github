@@ -1,7 +1,7 @@
 ## Hi there, Bitlab Developers Here 👋
 
 <p align="center">
-  <img src="resource/banner.png">
+  <img src="/profile/resource/banner.png">
 </p>
 
 ## 🧪🚀 Our Story:
